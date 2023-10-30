@@ -1,0 +1,31 @@
+ul {
+    list-style: none;
+}
+
+a {
+    text-decoration: none;
+    color: black;
+    font-size: 18px; 
+}
+
+nav li {
+    background-color: goldenrod;
+    width: max-content;
+    border-radius: 15px;
+    padding: 10px;
+}
+
+nav {
+    background-color: aquamarine;
+}
+
+.icerik_baslik {
+    font-style: italic;
+    color: brown;
+}
+
+.about_span {
+    color: red;
+    font-style: italic;
+    border-bottom: 1px red solid;
+}
